@@ -1,3 +1,3 @@
 public enum Contenido {
-    Aceite, Agua, Gasoleo, Gasolina;
+    ACEITE, AGUA, GASOLEO, GASOLINA;
 }
